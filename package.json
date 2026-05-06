@@ -1,0 +1,12 @@
+{
+  "name": "ishtop-frontend",
+  "version": "1.0.0",
+  "description": "IshTop — Ish topish va kasb o'rganish platformasi (Static Frontend Server)",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
